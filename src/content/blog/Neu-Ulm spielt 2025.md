@@ -5,7 +5,7 @@ title: Neu-Ulm spielt 2025, 10 Jahre Jubiläum
 tags:
   - Kultur
 description: So war das 10.  Neu-Ulm spielt im Juni
-empfohlen: true
+empfohlen: false
 author: Lennert
 readingtime: 1 Min
 pubTime: 20:10
